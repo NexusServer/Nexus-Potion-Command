@@ -1,0 +1,9 @@
+name: SpawnPT
+main: nexus.SpawnPT
+author: MCJINWOO
+version: 1.0.0
+api: ["1.0.0"]
+
+commands:
+ 야간투시:
+  default: true
